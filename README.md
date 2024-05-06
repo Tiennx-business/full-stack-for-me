@@ -1,1 +1,2 @@
-# javascripts
+# Learning javascripts
+# Goal: Senior javascripts
